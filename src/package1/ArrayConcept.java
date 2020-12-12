@@ -6,7 +6,7 @@ public class ArrayConcept {
 
 	public static void main(String[] args) {
 
-		
+				
 
 //		int[] aa=new int[4];//Array follow Index concept
 //		
